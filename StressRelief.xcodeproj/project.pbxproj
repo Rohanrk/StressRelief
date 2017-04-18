@@ -299,6 +299,7 @@
 				BC117A8D1E9C6A2800D5CBD2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
